@@ -1,4 +1,7 @@
 # Enable-UpgradeKey
+
+**自己責任でお使いください。**
+
 このバッチ処理はWindowsをクリーンインストールしたあとの認証でアップグレードキーを有効にするレジストリキーを挿入します。
 アップグレード版しか持っていないときには有効です。
 
@@ -10,6 +13,9 @@ Disable.bat → アップグレード版のプロダクトキーを無効
 それ以外は動作保証はできませんので万が一のことがあっても自己責任になります。
 
 # English
+
+**Please use at your own risk.**
+
 This batch process inserts a registry key that enables the upgrade key in the authentication after a clean install of Windows.
 This is useful if you only have the upgrade version.
 
